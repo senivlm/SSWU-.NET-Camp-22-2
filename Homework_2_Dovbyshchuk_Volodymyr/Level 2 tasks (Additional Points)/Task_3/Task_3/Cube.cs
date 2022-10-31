@@ -144,7 +144,11 @@ namespace Task_3
             {
                 for (int j = 0; j < this.cube.GetLength(1); j++)
                 {
-                    res += this.cube[i, j, 0] + " ";
+                    for (int k = 0; k < this.cube.GetLength(2); k++)
+                    {
+                        res += this.cube[i, j, k] + " ";
+                    }
+                    res += "\n";
                 }
                 res += "\n";
             }
