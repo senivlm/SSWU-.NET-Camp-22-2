@@ -13,6 +13,11 @@ namespace Homework_3_Dovbyshchuk_Volodymyr
             Console.WriteLine(product.ToString());
         }
 
+        public static void DisplayBuy(Buy buy)
+        {
+            Console.WriteLine(buy.ToString());
+        }
+
         public override string? ToString()
         {
 
