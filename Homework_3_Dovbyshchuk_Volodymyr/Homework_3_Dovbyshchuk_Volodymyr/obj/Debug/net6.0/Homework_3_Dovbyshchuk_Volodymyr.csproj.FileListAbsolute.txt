@@ -1,0 +1,15 @@
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\bin\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.exe
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\bin\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.deps.json
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\bin\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.runtimeconfig.json
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\bin\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.dll
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\bin\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.pdb
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.csproj.AssemblyReference.cache
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.GeneratedMSBuildEditorConfig.editorconfig
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.AssemblyInfoInputs.cache
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.AssemblyInfo.cs
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.csproj.CoreCompileInputs.cache
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.dll
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\refint\Homework_3_Dovbyshchuk_Volodymyr.dll
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.pdb
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\Homework_3_Dovbyshchuk_Volodymyr.genruntimeconfig.cache
+E:\SSWU\SSWU-.NET-Camp-22-2\Homework_3_Dovbyshchuk_Volodymyr\Homework_3_Dovbyshchuk_Volodymyr\obj\Debug\net6.0\ref\Homework_3_Dovbyshchuk_Volodymyr.dll
