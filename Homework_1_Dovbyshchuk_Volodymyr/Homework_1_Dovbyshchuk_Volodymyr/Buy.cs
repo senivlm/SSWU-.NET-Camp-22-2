@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Homework_1_Dovbyshchuk_Volodymyr
 {
     internal class Buy
-    {
+    {// покупка може містити більше одного товару.Це не враховано.
         public Product Product { get; set; }
         public int Quantity { get; set; }
 
