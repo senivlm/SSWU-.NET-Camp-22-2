@@ -1,4 +1,5 @@
 ﻿using Homework_1_Dovbyshchuk_Volodymyr;
+// Вітаю. все доступно і правильно організовано.
 
 Product apple = new Product("apple", 13.42, 13.50);
 
